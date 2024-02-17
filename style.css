@@ -1,0 +1,11 @@
+span {
+    display: inline-block;
+}
+.minilayoutpic{
+    width: 100px;
+    height: 100px;
+}
+body {
+    text-align: center;
+    background-color: cadetblue;
+}
